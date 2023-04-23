@@ -1,8 +1,12 @@
-import React from 'react'
+import { useState,useEffect } from "react";
+// Icons
+import {linkIcon,loader,tick,copy} from '../assets';
 
 const Demo = () => {
   return (
-    <div>Demo</div>
+    <section className="mt-16 w-full max-w-xl ">
+
+    </section >
   )
 }
 
