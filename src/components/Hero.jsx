@@ -10,6 +10,11 @@ const Hero = () => {
        className='black_btn'
        >gitHub</button>
       </nav>
+
+      <h1 className='head_text'>Summerize article With <br className='max-md:hidden' />
+      <span className='orange_gradient'>OpenAi GPT-4</span>
+      </h1>
+      <h1 className='desc'>Simplify your reading with summerizer, an open-source airtificial summerizer that transform lengthy article into clear and easy</h1>
     </header>
   )
 }
