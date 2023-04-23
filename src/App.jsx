@@ -1,11 +1,22 @@
-import React from 'react'
-import logo from './assets/logo.svg'
+import React from 'react';
+
+// Components
+import Demo from './components/Demo';
+import Hero from './components/Hero';
+// Styles
+import './App.css';
 
 const App = () => {
   return (
-    <div>
-        <img src={logo} alt='logo' />
-    </div>
+    <main>
+        <div className="main">
+          <div className="gradient" />
+        </div>
+        <div className="app">
+          <Hero />
+          <Demo />
+        </div>
+    </main>
   )
 }
 
