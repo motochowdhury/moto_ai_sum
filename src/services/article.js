@@ -8,9 +8,9 @@ export const articleApi = createApi({
         baseUrl: 'https://article-extractor-and-summarizer.p.rapidapi.com/',
         prepareHeaders: (headers) => {
             headers.set('X-RapidAPI-Key', rapidApiKey)
-            headers.set('X-RapidAPI-Host', 'https://article-extractor-and-summarizer.p.rapidapi.com/summarize' )
+            headers.set('X-RapidAPI-Host', 'https://article-extractor-and-summarizer.p.rapidapi.com/summarize')
 
-            return headers
+            return headers;
         }
     }),
     endpoints: (builder) => ({
@@ -22,3 +22,5 @@ export const articleApi = createApi({
 
 
 export const {useLazyGetSummaryQuery} = articleApi;
+
+// article has a problem which i don't identify
