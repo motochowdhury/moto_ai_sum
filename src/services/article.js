@@ -23,4 +23,3 @@ export const articleApi = createApi({
 
 export const {useLazyGetSummaryQuery} = articleApi;
 
-// 12th may comment done.
