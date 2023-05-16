@@ -49,7 +49,7 @@ const Demo = () => {
           </button>
         </form>
       </div>
-    </section >
+    </section>
   )
 }
 
@@ -58,3 +58,4 @@ export default Demo
 
 // need to recover my self
 // Can i get well tommorow?
+// the code is nothing for me at this time, we are taking to go for our local sources, it can be a local formula to takes our security.we can formula we can do something to our services. we have to takes our formula to hole security. we can start our local formula those which we don't can be a hole solutions to create a mutablity, it can be a hole genaretion. those who want all the files to do everything with our local system. it can be a hole solutions to create all the thing with our formula, this will be a hole source int the solutions to makes all the thing for the famoliarity to curious local formal to the thing. our security in the hole source made all the courve. may be all the hole solutions. in the way to made curiosioty all the printig protential. this is the way to call the faculty to do something for the server. in the way to the local server,

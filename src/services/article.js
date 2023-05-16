@@ -23,3 +23,6 @@ export const articleApi = createApi({
 
 export const {useLazyGetSummaryQuery} = articleApi;
 
+
+
+// commiting after tow days
