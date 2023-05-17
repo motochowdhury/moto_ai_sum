@@ -25,4 +25,3 @@ export const {useLazyGetSummaryQuery} = articleApi;
 
 
 
-// commiting after tow days
