@@ -57,3 +57,4 @@ export default Demo
 
 
 // todays comment
+// added inline fold extension
