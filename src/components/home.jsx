@@ -12,6 +12,7 @@ const home = () => {
                 <div>
                     <img src="" alt="" />
                 </div>
+                {/* this button will done all the functional work in one click, we can call it main switch, this will be very powerful and dangerous. we also add an warning massage for this field so that no anybody can confirm before click this process. this will be fine in this services. */}
                 <div>
                     <button>submit</button>
                 </div>
